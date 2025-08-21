@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** [Alexander Schildgen]  
+**Date:** [8/20/25]
 
 ---
 
@@ -10,15 +10,15 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+[Git is a version control system, github is a tool that can use the powers of it with a easier interface.]
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+[Commiting is saving your changes, however to actually implement the changes you have to push them.]
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+[A repository is your personal project folder that contains all of your files and hitory, only you have acesss to your repository, however everyone can view yours.]
 
 ---
 
@@ -26,7 +26,7 @@ All answers can be found in the README.md file
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/aschildgen/aschildgen 
 
 ---
 
@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+[I am excited to learn how I can implement AI into my daily life to help with vairous basic tasks.]
 
 ---
 
